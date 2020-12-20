@@ -1,2 +1,2 @@
 # Dphi_Projects
-Dphi Data Science / Machine Learning Assignments
+Dphi Data Science / Machine Learning Projects
